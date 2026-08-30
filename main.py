@@ -15,7 +15,7 @@ def tutorial_check():
             print('Please type either "y" or "n"')
 
 def main():
-    print("~~~~~~~~~~Shoots and Ladders~~~~~~~~~~")
+    print("~~~~~~~~~~Snakes and Ladders~~~~~~~~~~")
     tutorial_check()
 
 if __name__ == "__main__":
