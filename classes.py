@@ -5,7 +5,7 @@ class Player:
     def __init__(self, name: str):
         self.name: str = name
 
-    # decorator and method to return name as a string
+    # decorator and double underscore (dunder) method to return self.name as a string
     @override
     def __str__(self) -> str:
         return self.name
