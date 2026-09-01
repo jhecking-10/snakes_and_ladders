@@ -1,4 +1,4 @@
-import random # for random die roll
+import random
 
 
 def create_game_board():
